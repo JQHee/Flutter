@@ -31,6 +31,7 @@ pub_semver: ^1.4.2
 flutter_statusbar: ^0.0.1
 flutter_svg: ^0.13.0+1
 flutter_slidable: ^0.5.0
+
 dio: ^2.1.4
 event_bus:  ^1.1.0
 flutter_cache_manager: ^0.3.2
@@ -41,12 +42,14 @@ package_info: ^0.4.0+3
 rxdart: ^0.22.0
 android_intent: ^0.3.0
 webview_flutter: ^0.3.7+1
+
 flutter_localizations:
 sdk: flutter
 flutter_lottie:
 git:
 url: https://github.com/CarSmallGuo/flutter_lottie.git
 ref: 3adb18f2e2a45b8dbdebc0437e9a4db3f6ff32b8
+
 photo_view:
 git:
 url: https://github.com/CarSmallGuo/photo_view.git
