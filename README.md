@@ -13,15 +13,56 @@
 - 10、引导页：https://github.com/duytq94/flutter-intro-slider
 - 11、数据库：https://github.com/tekartik/sqflite
 
+```
+cupertino_icons: ^0.1.2
+shared_preferences: ^0.5.1+1
+fluttertoast: ^3.0.1
+json_annotation: ^2.4.0
+flutter_redux: ^0.5.3
+device_info: ^0.4.0+1
+connectivity: ^0.4.3+1
+url_launcher: ^5.0.2
+flutter_markdown: ^0.2.0
+share: ^0.6.0+1
+flutter_spinkit: ^3.1.0
+flutter_webview_plugin: ^0.3.5
+sqflite: ^1.1.5
+pub_semver: ^1.4.2
+flutter_statusbar: ^0.0.1
+flutter_svg: ^0.13.0+1
+flutter_slidable: ^0.5.0
+dio: ^2.1.4
+event_bus:  ^1.1.0
+flutter_cache_manager: ^0.3.2
+path_provider: ^0.5.0+1
+permission_handler: 3.0.2
+scoped_model: ^1.0.1
+package_info: ^0.4.0+3
+rxdart: ^0.22.0
+android_intent: ^0.3.0
+webview_flutter: ^0.3.7+1
+flutter_localizations:
+sdk: flutter
+flutter_lottie:
+git:
+url: https://github.com/CarSmallGuo/flutter_lottie.git
+ref: 3adb18f2e2a45b8dbdebc0437e9a4db3f6ff32b8
+photo_view:
+git:
+url: https://github.com/CarSmallGuo/photo_view.git
+ref: 6be6a50adfcead0e727a982d32090b9efec9e896
+```
+
 #### 参考开源app
 - GSYGithubAppFlutter: https://github.com/CarGuo/GSYGithubAppFlutter
 - 玩转Android: https://github.com/ngu2008/wanandroid
 - 仿滴滴出行：https://juejin.im/post/5c6cc95e518825266c3f095a
 - Flutter版本的玩Android完整版本：https://www.jianshu.com/p/ef4bf0bbe385
+- Redux: https://github.com/NIAEFEUP/project-schrodinger/blob/develop/app_feup/lib/Main.dart
 
 #### 主要模块
 - 生命周期
-- Redux（共享状态和单一数据）： https://pub.flutter-io.cn/packages/flutter_redux
+- Redux（共享状态和单一数据）： https://pub.flutter-io.cn/packages/flutter_redux、https://juejin.im/post/5b79767ff265da435450a873、https://github.com/riskers/flutter_notebook_redux
 - 导航
 - 路由
 - 和Native相互交互
@@ -40,6 +81,7 @@
 - 玩Android跨平台项目：https://www.wanandroid.com/project/list/1?cid=402
 - Json转Model插件：https://github.com/neverwoodsS/idea_dart_json_format
 - Flutter-Notebook,提供了很多优秀样例和Demo：https://github.com/OpenFlutter/Flutter-Notebook
+- 简书恋猫月亮GSYGithubAppFlutter：https://www.jianshu.com/u/6e613846e1ea
 
 #### Flutter打包与发布
 - 与原生app打包相同
