@@ -43,6 +43,11 @@ rxdart: ^0.22.0
 android_intent: ^0.3.0
 webview_flutter: ^0.3.7+1
 
+cached_network_image: ^0.7.0
+flutter_swiper: ^1.1.6
+flutter_staggered_grid_view: ^0.2.7
+flutter_splash_screen: ^0.1.0
+
 flutter_localizations:
 sdk: flutter
 flutter_lottie:
@@ -57,6 +62,7 @@ ref: 6be6a50adfcead0e727a982d32090b9efec9e896
 ```
 
 #### 参考开源app
+- 携程app: https://github.com/JQHee/flutter_trip
 - GSYGithubAppFlutter: https://github.com/CarGuo/GSYGithubAppFlutter
 - 玩转Android: https://github.com/ngu2008/wanandroid
 - 仿滴滴出行：https://juejin.im/post/5c6cc95e518825266c3f095a
