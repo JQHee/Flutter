@@ -56,6 +56,7 @@
 - 一行命令，将 JSON 文件转成 Dart 类：https://juejin.im/post/5cda2d8ef265da038364e621、https://book.flutterchina.club/chapter10/json_model.html
 - Flutter 仿掘金之动态Tabbar:  https://juejin.im/post/5ce8dd43f265da1b6a346fc4
 - 彻底解决Flutter自带TabBarView的众多bug: https://juejin.im/post/5cde82346fb9a07f04201760
+- 加载更多：https://www.jianshu.com/p/4ded10b7d961
 
 #### 页面
 - Widget 分为 有状态 和 无状态 两种 （StatelessWidget、StatefulWidget）
