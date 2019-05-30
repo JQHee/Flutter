@@ -82,8 +82,10 @@ ref: 6be6a50adfcead0e727a982d32090b9efec9e896
 - 国际化
 - 网络请求封装
 - Native 集成 Flutter
-- 根据json自动生成dart模型：https://javiercbk.github.io/json_to_dart/
+- 在线根据json自动生成dart模型：https://javiercbk.github.io/json_to_dart/
 - 页面布局：https://flutterchina.club/widgets/layout/、https://www.jianshu.com/p/01bf6da35b96
+- 组件传值：https://www.jianshu.com/p/25a85c02d586
+- 页面的切换动画：https://juejin.im/post/5ceb6179f265da1bc23f55d0
 
 #### 学习网站
 - Flutter序列文章：https://www.jianshu.com/u/6e613846e1ea
