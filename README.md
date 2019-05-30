@@ -119,6 +119,41 @@ ref: 6be6a50adfcead0e727a982d32090b9efec9e896
 - Flutter 布局： https://flutterchina.club/widgets/layout/、https://www.jianshu.com/p/01bf6da35b96
 - 控件的学习：https://www.jianshu.com/p/b2bc9cd27cc1、https://github.com/draftbk/flutter_road
 
+#### Widgets
+- 布局类
+```
+线性布局Row、Column
+弹性布局Flex
+流式布局Wrap、Flow
+层叠布局Stack、Positioned
+```
+
+- 容器类
+```
+Padding
+布局限制类容器ConstrainedBox、SizeBox
+装饰容器DecoratedBox
+变换Transform
+Container容器
+Scaffold、TabBar、底部导航
+```
+
+- 可滚动
+```
+SingleChildScrollView
+ListView
+GridView
+CustomScrollView
+滚动监听及控制ScrollController
+```
+
+- 功能型
+```
+导航返回拦截-WillPopScope
+数据共享-InheritedWidget
+主题-Theme
+```
+
 
 #### 问题处理
 - `Waiting for another flutter command to release the startup lock` ：如果遇到这个问题：
