@@ -82,6 +82,8 @@ ref: 6be6a50adfcead0e727a982d32090b9efec9e896
 - 国际化
 - 网络请求封装
 - Native 集成 Flutter
+- 根据json自动生成dart模型：https://javiercbk.github.io/json_to_dart/
+- 页面布局：https://flutterchina.club/widgets/layout/、https://www.jianshu.com/p/01bf6da35b96
 
 #### 学习网站
 - Flutter序列文章：https://www.jianshu.com/u/6e613846e1ea
@@ -114,4 +116,5 @@ ref: 6be6a50adfcead0e727a982d32090b9efec9e896
 
 #### 页面
 - Widget 分为 有状态 和 无状态 两种 （StatelessWidget、StatefulWidget）
-- Flutter 布局： https://flutterchina.club/widgets/layout/
+- Flutter 布局： https://flutterchina.club/widgets/layout/、https://www.jianshu.com/p/01bf6da35b96
+- 控件的学习：https://www.jianshu.com/p/b2bc9cd27cc1、https://github.com/draftbk/flutter_road

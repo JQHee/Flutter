@@ -1,16 +1,16 @@
 import 'package:flutter/material.dart';
 
-/// 旅游页面
+/// 旅拍页面
 class TravelPage extends StatefulWidget {
   @override
   State<StatefulWidget> createState() {
     // TODO: implement createState
-    return _TravelPage();
+    return _TravelPageState();
   }
 
 }
 
-class _TravelPage extends State<TravelPage> {
+class _TravelPageState extends State<TravelPage> {
   @override
   Widget build(BuildContext context) {
     // TODO: implement build
