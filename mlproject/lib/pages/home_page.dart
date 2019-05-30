@@ -66,6 +66,8 @@ class _HomePageState extends State<HomePage> with AutomaticKeepAliveClientMixin 
   @override
   Widget build(BuildContext context) {
     // TODO: implement build
-    return null;
+    return Text("Hello world",
+              textAlign: TextAlign.center,
+            );
   }
 }

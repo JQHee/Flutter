@@ -21,7 +21,9 @@ class _SearchPageState extends State<SearchPage> {
   @override
   Widget build(BuildContext context) {
     // TODO: implement build
-    return null;
+        return Text("Hello world",
+                textAlign: TextAlign.center,
+              );
   }
 
 }

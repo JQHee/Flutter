@@ -95,14 +95,14 @@ ref: 6be6a50adfcead0e727a982d32090b9efec9e896
 - 玩Android跨平台项目：https://www.wanandroid.com/project/list/1?cid=402
 - Json转Model插件：https://github.com/neverwoodsS/idea_dart_json_format
 - Flutter-Notebook,提供了很多优秀样例和Demo：https://github.com/OpenFlutter/Flutter-Notebook
-- 简书恋猫月亮GSYGithubAppFlutter：https://www.jianshu.com/u/6e613846e1ea
+- 简书恋猫月亮`GSYGithubAppFlutter`：https://www.jianshu.com/u/6e613846e1ea
 
 #### Flutter打包与发布
 - 与原生app打包相同
 
 
 #### 一、环境搭建
-所需工具： mac 、vscode 
+所需工具： Mac 、VSCode、XCode(打包)
 参考链接：https://www.jianshu.com/p/55a047296368 、https://www.jianshu.com/p/2e04e9d82998
 
 #### 二、常用实例
@@ -118,3 +118,12 @@ ref: 6be6a50adfcead0e727a982d32090b9efec9e896
 - Widget 分为 有状态 和 无状态 两种 （StatelessWidget、StatefulWidget）
 - Flutter 布局： https://flutterchina.club/widgets/layout/、https://www.jianshu.com/p/01bf6da35b96
 - 控件的学习：https://www.jianshu.com/p/b2bc9cd27cc1、https://github.com/draftbk/flutter_road
+
+
+#### 问题处理
+- `Waiting for another flutter command to release the startup lock` ：如果遇到这个问题：
+```
+  1、打开flutter的安装目录/bin/cache/ 
+  2、删除lockfile文件 
+  3、重启AndroidStudio
+```
