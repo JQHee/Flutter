@@ -100,6 +100,7 @@ ref: 6be6a50adfcead0e727a982d32090b9efec9e896
 - Json转Model插件：https://github.com/neverwoodsS/idea_dart_json_format
 - Flutter-Notebook,提供了很多优秀样例和Demo：https://github.com/OpenFlutter/Flutter-Notebook
 - 简书恋猫月亮`GSYGithubAppFlutter`：https://www.jianshu.com/u/6e613846e1ea
+- 安卓插件、根据json生成model: https://github.com/ShikinChen/DartJsonFormat
 
 #### Flutter打包与发布
 - 与原生app打包相同
