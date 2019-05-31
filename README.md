@@ -157,6 +157,20 @@ CustomScrollView
 ```
 
 
+#### 屏幕适配
+- iOS 
+```
+1.SafeArea
+2.MediaQuery
+```
+
+- Android
+```
+<meta-data android:name="android.max_aspect" 
+android:value="2.1" />
+```
+
+
 #### 问题处理
 - `Waiting for another flutter command to release the startup lock` ：如果遇到这个问题：
 ```
