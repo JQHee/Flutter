@@ -42,7 +42,15 @@ class _HomePageState extends State<HomePage> with AutomaticKeepAliveClientMixin 
     super.dispose();
   }
 
+  // 第一种调用接口方式
+  _requestData() {
+    HomeDao.fetch().then((result) {
+
+    });
+  }
+
   //加载首页数据
+  // 第二种调用接口方式
   Future<Null> _handleRefresh() async {
     try {
       HomeModel model = await HomeDao.fetch();
@@ -75,4 +83,10 @@ class _HomePageState extends State<HomePage> with AutomaticKeepAliveClientMixin 
                 ),
     );
   }
+}
+
+class ( {
+}
+
+class ( {
 }
