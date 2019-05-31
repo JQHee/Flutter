@@ -63,6 +63,7 @@ ref: 6be6a50adfcead0e727a982d32090b9efec9e896
 
 #### 参考开源app
 - 携程app: https://github.com/JQHee/flutter_trip
+- Mung Bloc 路由: https://juejin.im/post/5ce4a7c9e51d455d88219e70
 - GSYGithubAppFlutter: https://github.com/CarGuo/GSYGithubAppFlutter
 - 移动电商：https://github.com/shenghy/flutter_shop
 - 玩转Android: https://github.com/ngu2008/wanandroid
@@ -73,6 +74,7 @@ ref: 6be6a50adfcead0e727a982d32090b9efec9e896
 
 
 #### 主要模块
+- rxdart  类似于rxswift
 - 生命周期
 - Redux（共享状态和单一数据）： https://pub.flutter-io.cn/packages/flutter_redux、https://juejin.im/post/5b79767ff265da435450a873、https://github.com/riskers/flutter_notebook_redux
 - 导航
