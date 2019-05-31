@@ -49,6 +49,7 @@ class _HomePageState extends State<HomePage> with AutomaticKeepAliveClientMixin 
     });
   }
 
+
   //加载首页数据
   // 第二种调用接口方式
   Future<Null> _handleRefresh() async {
@@ -83,10 +84,4 @@ class _HomePageState extends State<HomePage> with AutomaticKeepAliveClientMixin 
                 ),
     );
   }
-}
-
-class ( {
-}
-
-class ( {
 }

@@ -134,7 +134,7 @@ class HttpUtil {
       }
       print('get请求发生错误：$e');
     }
-    return response.data;
+    return response;
   }
 
   /**
@@ -156,6 +156,6 @@ class HttpUtil {
       }
       print('post请求发生错误：$e');
     }
-    return response.data;
+    return response;
   }
 }
