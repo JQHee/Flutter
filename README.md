@@ -104,6 +104,10 @@ ref: 6be6a50adfcead0e727a982d32090b9efec9e896
 #### Flutter打包与发布
 - 与原生app打包相同
 
+#### rxdart状态共享
+- 场景：共享用户信息、主题设置等等
+- 学习项目参考：https://juejin.im/post/5ce4a7c9e51d455d88219e70
+
 
 #### 一、环境搭建
 所需工具： Mac 、VSCode、XCode(打包)
