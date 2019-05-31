@@ -72,6 +72,7 @@ ref: 6be6a50adfcead0e727a982d32090b9efec9e896
 - Native 集成 Flutter
 
 #### 学习网站
+- 宁皓网：https://github.com/ninghao/ninghao_flutter 视频：https://www.bilibili.com/video/av43555273/?p=4
 - Flutter序列文章：https://www.jianshu.com/u/6e613846e1ea
 - Flutter官网：https://flutter.dev
 - Flutter中文网：https://flutterchina.club
