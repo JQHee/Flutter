@@ -114,6 +114,29 @@ ref: 6be6a50adfcead0e727a982d32090b9efec9e896
 所需工具： Mac 、VSCode、XCode(打包)
 参考链接：https://www.jianshu.com/p/55a047296368 、https://www.jianshu.com/p/2e04e9d82998
 
+```
+1.配置
+vim ~/.zshrc
+
+2.填入以下配置信息
+export PUB_HOSTED_URL=https://pub.flutter-io.cn
+export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn
+# FLUTTER_HOME 为你自己的gitclone下来到目录，待会儿再来下载
+export FLUTTER_HOME=/Volumes/work/FlutterSdk/flutter
+export PATH=${FLUTTER_HOME}/bin:$PATH
+
+3.进入目录clone分支代码
+# 打开终端 cd 到自己想要克隆SDK的目录外,比如我就放到
+cd /Volumes/work/FlutterSdk/
+#然后
+git clone -b stable https://github.com/flutter/flutter.git
+
+4.执行命令
+flutter -h
+flutter doctor
+```
+
+
 #### 二、常用实例
 - Flutter 三种方式实现页面切换后保持原页面状态：https://www.jianshu.com/p/7d4a028529b9
 - 闲鱼 fish-redux 的非官方可视化调试工具：https://www.jianshu.com/p/5b479eab9dce
@@ -185,3 +208,5 @@ android:value="2.1" />
   2、删除lockfile文件 
   3、重启AndroidStudio
 ```
+
+
