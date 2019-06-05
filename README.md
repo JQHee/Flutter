@@ -208,6 +208,7 @@ android:value="2.1" />
 - 可参考 玩转Android: https://github.com/ngu2008/wanandroid
 - flutter Bloc状态管理 改变主题等：https://www.jianshu.com/p/603d8fedb0f7
 - BBS论坛：https://www.jianshu.com/p/c7c007f367c9
+- GSYGithubAppFlutter: https://github.com/CarGuo/GSYGithubAppFlutter
 
 #### 问题处理
 - `Waiting for another flutter command to release the startup lock` ：如果遇到这个问题：
