@@ -66,7 +66,7 @@ ref: 6be6a50adfcead0e727a982d32090b9efec9e896
 - 携程app: https://github.com/JQHee/flutter_trip
 - Mung Bloc 路由: https://juejin.im/post/5ce4a7c9e51d455d88219e70
 - GSYGithubAppFlutter: https://github.com/CarGuo/GSYGithubAppFlutter
-- 移动电商：https://github.com/shenghy/flutter_shop
+- 移动电商：https://github.com/shenghy/flutter_shop 教程博客：https://www.cnblogs.com/wangjunwei/p/10624884.html
 - 开眼: https://github.com/wtus/flutter_kaiyan
 - 书旗小说：https://github.com/huanxsd/flutter_shuqi
 - 玩转Android: https://github.com/ngu2008/wanandroid
@@ -209,6 +209,7 @@ android:value="2.1" />
 - flutter Bloc状态管理 改变主题等：https://www.jianshu.com/p/603d8fedb0f7
 - BBS论坛：https://www.jianshu.com/p/c7c007f367c9
 - GSYGithubAppFlutter: https://github.com/CarGuo/GSYGithubAppFlutter
+- 状态管理：https://www.jianshu.com/p/893b417b2fc5
 
 #### 问题处理
 - `Waiting for another flutter command to release the startup lock` ：如果遇到这个问题：
