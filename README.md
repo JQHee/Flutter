@@ -116,6 +116,7 @@ ref: 6be6a50adfcead0e727a982d32090b9efec9e896
 #### 一、环境搭建
 所需工具： Mac 、VSCode、XCode(打包)
 参考链接：https://www.jianshu.com/p/55a047296368 、https://www.jianshu.com/p/2e04e9d82998
+基本控件学习： https://www.jianshu.com/p/55a047296368
 
 ```
 1.配置
