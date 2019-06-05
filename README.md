@@ -12,6 +12,7 @@
 - 9、网络请求库：https://github.com/flutterchina/dio
 - 10、引导页：https://github.com/duytq94/flutter-intro-slider
 - 11、数据库：https://github.com/tekartik/sqflite
+- 12、刷新：https://github.com/OpenFlutter/PullToRefresh、https://github.com/xuelongqy/flutter_easyrefresh、https://github.com/peng8350/flutter_pulltorefresh
 
 ```
 cupertino_icons: ^0.1.2
