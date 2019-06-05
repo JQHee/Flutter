@@ -137,6 +137,14 @@ git clone -b stable https://github.com/flutter/flutter.git
 4.执行命令
 flutter -h
 flutter doctor
+
+5.创建新应用
+5.1、启动 VS Code
+5.2、调用 View>Command Palette…
+5.3、输入 ‘flutter’, 然后选择 ‘Flutter: New Project’ action
+5.4、输入 Project 名称 (如myapp), 然后按回车键(可能时间较长)
+5.5、指定放置项目的位置，然后按蓝色的确定按钮
+5.6、等待项目创建继续，并显示main.dart文件
 ```
 
 
