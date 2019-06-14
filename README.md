@@ -107,4 +107,6 @@ ref: 6be6a50adfcead0e727a982d32090b9efec9e896
 
 #### 原有的项目集成flutter
 - iOS老项目集成：http://tryenough.com/flutter03
+- 相互传值：https://www.jianshu.com/p/ce7ed8bbf35c
+- 安卓集成：https://www.jianshu.com/p/fcf3145d5d45
 
