@@ -63,6 +63,7 @@ ref: 6be6a50adfcead0e727a982d32090b9efec9e896
 ```
 
 #### 参考开源app
+- 状态管理：https://github.com/OpenFlutter/Flutter-Notebook
 - 实战项目：https://github.com/simplezhli/flutter_deer
 - 携程app: https://github.com/JQHee/flutter_trip
 - Mung Bloc 路由: https://juejin.im/post/5ce4a7c9e51d455d88219e70
