@@ -63,10 +63,11 @@ ref: 6be6a50adfcead0e727a982d32090b9efec9e896
 ```
 
 #### 参考开源app
+- 实战项目：https://github.com/simplezhli/flutter_deer
 - 携程app: https://github.com/JQHee/flutter_trip
 - Mung Bloc 路由: https://juejin.im/post/5ce4a7c9e51d455d88219e70
 - GSYGithubAppFlutter: https://github.com/CarGuo/GSYGithubAppFlutter
-- 移动电商：https://github.com/shenghy/flutter_shop 教程博客：https://www.cnblogs.com/wangjunwei/p/10624884.html
+- 移动电商：https://github.com/shenghy/flutter_shop 序列教程博客：https://www.cnblogs.com/wangjunwei/tag/flutter/
 - 开眼: https://github.com/wtus/flutter_kaiyan
 - 书旗小说：https://github.com/huanxsd/flutter_shuqi
 - 玩转Android: https://github.com/ngu2008/wanandroid
