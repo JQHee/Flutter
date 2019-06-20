@@ -73,6 +73,7 @@ ref: 6be6a50adfcead0e727a982d32090b9efec9e896
 - 书旗小说：https://github.com/huanxsd/flutter_shuqi
 - 玩转Android: https://github.com/ngu2008/wanandroid
 - 仿滴滴出行：https://juejin.im/post/5c6cc95e518825266c3f095a
+- bilibili: https://github.com/HuPingKang/flutter_demo
 - Flutter版本的玩Android完整版本：https://www.jianshu.com/p/ef4bf0bbe385
 - Redux: https://github.com/NIAEFEUP/project-schrodinger/blob/develop/app_feup/lib/Main.dart
 - rxdart 实现 BLoC 模式: https://github.com/kukyxs/flutter_weather
