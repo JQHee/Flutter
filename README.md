@@ -110,3 +110,7 @@ ref: 6be6a50adfcead0e727a982d32090b9efec9e896
 - 相互传值：https://www.jianshu.com/p/ce7ed8bbf35c
 - 安卓集成：https://www.jianshu.com/p/fcf3145d5d45
 
+#### 应用的版本更新
+- https://www.cnblogs.com/lunlunshiwo/p/10361298.html
+- iOS端推荐应用原生的更新
+
