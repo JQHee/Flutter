@@ -5,6 +5,10 @@ import 'package:flutter/material.dart';
  * 登录页面
  */
 class LoginPage extends StatelessWidget {
+
+  InputEdtextNameWiget _userNameTextField = new InputEdtextNameWiget();
+  InputEdtextPassWordWiget _passwordTextField = new InputEdtextPassWordWiget();
+
   @override
   Widget build(BuildContext context) {
     // TODO: implement build
@@ -40,12 +44,11 @@ class LoginPage extends StatelessWidget {
             ]),
 
           SizedBox(height: 120),
-          new inputEdtextNameWiget(),
+          _userNameTextField,
           SizedBox(height: 20,),
-          new inputEdtextPassWordWiget(),
+          _passwordTextField,
           SizedBox(height: 30,),
-          new loginButtonWiget(),
-
+          new LoginButtonWiget(),
         ],
       ),
     );
@@ -53,8 +56,8 @@ class LoginPage extends StatelessWidget {
 
 }
 
-//输入用户名
-class inputEdtextNameWiget extends StatelessWidget {
+// 输入用户名
+class InputEdtextNameWiget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // TODO: implement build
@@ -77,8 +80,9 @@ class inputEdtextNameWiget extends StatelessWidget {
     );
   }
 }
-//输入密码
-class inputEdtextPassWordWiget extends StatelessWidget {
+
+// 输入密码
+class InputEdtextPassWordWiget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // TODO: implement build
@@ -101,26 +105,32 @@ class inputEdtextPassWordWiget extends StatelessWidget {
     );
   }
 }
-//登录按钮
-class loginButtonWiget extends StatelessWidget {
+
+// 登录按钮
+class LoginButtonWiget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // TODO: implement build
     return new SizedBox(
-      child: new Container(
-        padding: EdgeInsets.fromLTRB(2, 15, 2, 15),
-        decoration: BoxDecoration(
-          borderRadius: BorderRadius.circular(30),
-          color: Colors.deepOrangeAccent,
+      child: new GestureDetector(
+        onTap: () => {
+          // 只能通过那几种方式传递事件
+        },
+        child: new Container(
+          padding: EdgeInsets.fromLTRB(2, 15, 2, 15),
+          decoration: BoxDecoration(
+            borderRadius: BorderRadius.circular(30),
+            color: Colors.deepOrangeAccent,
+          ),
+          alignment: Alignment.center,
+          child: Text(
+            '登录',
+            textAlign: TextAlign.center,
+            style: TextStyle(letterSpacing: 20,
+            fontWeight: FontWeight.bold,
+            color: Colors.white70),
+          )
         ),
-        alignment: Alignment.center,
-        child: Text(
-          '登录',
-          textAlign: TextAlign.center,
-          style: TextStyle(letterSpacing: 20,
-          fontWeight: FontWeight.bold,
-          color: Colors.white70),
-        )
       ),
     );
   }
