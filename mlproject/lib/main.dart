@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:mlproject/navigator/tab_navigator.dart';
+import 'package:mlproject/pages/login_page.dart';
 
 void main() => runApp(MyApp());
 
@@ -12,7 +13,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: TabNavigator(),
+      home: LoginPage(),
     );
   }
 }
