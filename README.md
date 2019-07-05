@@ -71,6 +71,7 @@ ref: 6be6a50adfcead0e727a982d32090b9efec9e896
 - 网络请求封装
 - Native 集成 Flutter
 - rxdart入门Demo：https://github.com/JQHee/Flutter-Notebook
+- event-bus: https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/event_bus_demo
 
 #### 学习网站
 - 宁皓网：https://github.com/ninghao/ninghao_flutter 视频：https://www.bilibili.com/video/av43555273/?p=4
