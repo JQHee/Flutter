@@ -60,6 +60,7 @@ ref: 6be6a50adfcead0e727a982d32090b9efec9e896
 - Flutter版本的玩Android完整版本：https://www.jianshu.com/p/ef4bf0bbe385
 - Redux: https://github.com/NIAEFEUP/project-schrodinger/blob/develop/app_feup/lib/Main.dart
 - 可供学习的序列Demo: https://github.com/OpenFlutter/Flutter-Notebook
+- bilibili: https://github.com/HuPingKang/flutter_demo
 
 #### 主要模块
 - 生命周期
