@@ -61,6 +61,7 @@ ref: 6be6a50adfcead0e727a982d32090b9efec9e896
 - Redux: https://github.com/NIAEFEUP/project-schrodinger/blob/develop/app_feup/lib/Main.dart
 - 可供学习的序列Demo: https://github.com/OpenFlutter/Flutter-Notebook
 - bilibili: https://github.com/HuPingKang/flutter_demo
+- 视频类app: https://github.com/songxiaoliang/visitor-flutter
 
 #### 主要模块
 - 生命周期
